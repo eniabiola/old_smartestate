@@ -1,0 +1,60 @@
+[31-Jul-2021 21:47:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[01-Aug-2021 20:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[23-Sep-2021 08:03:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[25-Sep-2021 16:22:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[28-Oct-2021 13:09:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[28-Oct-2021 14:47:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[28-Oct-2021 14:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[28-Oct-2021 14:48:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[28-Oct-2021 22:12:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[29-Oct-2021 07:41:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[29-Oct-2021 13:46:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
+[29-Oct-2021 15:26:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'dataljb7_smart'@'localhost' to database 'dataljb7_smart' in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php:11
+Stack trace:
+#0 /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php(11): PDO->__construct('mysql:host=loca...', 'dataljb7_smart', 'andy247742')
+#1 {main}
+  thrown in /home1/dataljb7/demo.smartestateapp.com/panel/api/email/email.php on line 11
